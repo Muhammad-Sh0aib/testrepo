@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-=======
 body{
-    background-color: rgb(39, 39, 39);
+    background-color: rgb(41, 41, 41);
     color: white;
     border: 2px solid white;
+    margin: 0;
+    padding: 0;
 }
->>>>>>> parent of 78202b2 (improve css)
